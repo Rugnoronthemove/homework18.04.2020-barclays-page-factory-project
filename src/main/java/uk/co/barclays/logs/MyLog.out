@@ -1,0 +1,8 @@
+2020-04-22 13:04:939 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 13:04:126 INFO  HomePage :23 -  Mouse hover on [[ChromeDriver: chrome on WINDOWS (48f34ed687a541411f807b905f6b0e49)] -> link text: Bank]
+2020-04-22 13:04:22 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 13:04:850 INFO  HomePage :29 -  Mouse hover on [[ChromeDriver: chrome on WINDOWS (6aeea885124594c274689e00c6b574d4)] -> link text: Bank]
+2020-04-22 13:04:661 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 13:04:554 INFO  HomePage :23 -  Mouse hover on [[ChromeDriver: chrome on WINDOWS (c87d9c3dd7467affb5db8ff088255647)] -> link text: Bank]
+2020-04-22 13:04:951 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-22 13:04:348 INFO  HomePage :29 -  Mouse hover on [[ChromeDriver: chrome on WINDOWS (e1ea40ceba1ab7dfe9ffbc777db5faff)] -> link text: Bank]
